@@ -1,6 +1,6 @@
 # Monitor Azure VMs using Datadog
 
-*This post is part 3 of a 3-part series on monitoring Azure virtual machines. [Part 1](/blog/how-to-monitor-microsoft-azure-vms) explores the key metrics available in Azure, and [Part 2](/blog/how-to-collect-azure-metrics) is about collecting Azure VM metrics.*
+*This post is part 3 of a 3-part series on monitoring Azure virtual machines. [Part 1](/DataDog/the-monitor/blob/master/azure/how_to_monitor_microsoft_azure_vms.md) explores the key metrics available in Azure, and [Part 2](/blog/how-to-collect-azure-metrics) is about collecting Azure VM metrics.*
 
 If you’ve already read [our post](/blog/how-to-collect-azure-metrics) on collecting Azure performance metrics, you’ve seen that you can view and alert on metrics from individual VMs using the Azure web portal. For a more dynamic, comprehensive view of your infrastructure, you can connect Azure to Datadog.
 
